@@ -1,0 +1,41 @@
+.news {
+    background-color: #111;
+    width: 100%;
+    float: left;
+    padding: 50px 8%;
+}
+
+.news h3 {
+    color: #fff;
+    font-size: 1.8em;
+}
+
+.news p {
+    font-size: 1.2em;
+    color: #fff;
+}
+
+.news form {
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+}
+
+.news form input {
+    width: 40%;
+    margin-right: 1%;
+    padding: 15px 10px;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    color: #fff;
+    background-color: initial;
+}
+
+.news form button {
+    width: 17%;
+    float: right;
+    background-color: #fff;
+    padding: 15px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}

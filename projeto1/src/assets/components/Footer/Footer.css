@@ -1,0 +1,29 @@
+.direitos {
+    width: 100%;
+    padding: 18px 8%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #13c7ae;
+}
+
+.direitos p {
+    color: #fff;
+    padding: 15px 10px;
+}
+
+.direitos button{
+    border: 1px solid #fff;
+    color: #fff;
+    font-weight: 500;
+    background-color: transparent;
+    padding: 15px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+
+.direitos button:hover{
+    background-color: #fff;
+    color: #111;
+}
